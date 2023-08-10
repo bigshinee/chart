@@ -1,0 +1,2170 @@
+{
+  "tradeHistory": [
+    {
+      "date": "202008",
+      "trade": 1,
+      "lease": null,
+      "rent": null,
+      "history": {
+        "total": 1,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "1",
+        "histories": [
+          {
+            "type": 2,
+            "date": "202008",
+            "deposit": 232000,
+            "price": null,
+            "floor": 3,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202009",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202010",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202011",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202012",
+      "trade": 4,
+      "lease": null,
+      "rent": null,
+      "history": {
+        "total": 4,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "4",
+        "histories": [
+          {
+            "type": 2,
+            "date": "202012",
+            "deposit": 247000,
+            "price": null,
+            "floor": 21,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202012",
+            "deposit": 250000,
+            "price": null,
+            "floor": 11,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202012",
+            "deposit": 250000,
+            "price": null,
+            "floor": 24,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202012",
+            "deposit": 257500,
+            "price": null,
+            "floor": 15,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202101",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202102",
+      "trade": 2,
+      "lease": null,
+      "rent": null,
+      "history": {
+        "total": 2,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "2",
+        "histories": [
+          {
+            "type": 2,
+            "date": "202102",
+            "deposit": 245000,
+            "price": null,
+            "floor": 1,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202102",
+            "deposit": 263000,
+            "price": null,
+            "floor": 3,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202103",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202104",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202105",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202106",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202107",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202108",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202109",
+      "trade": 1,
+      "lease": null,
+      "rent": null,
+      "history": {
+        "total": 1,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "1",
+        "histories": [
+          {
+            "type": 2,
+            "date": "202109",
+            "deposit": 310000,
+            "price": null,
+            "floor": 22,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202110",
+      "trade": 3,
+      "lease": null,
+      "rent": null,
+      "history": {
+        "total": 3,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "3",
+        "histories": [
+          {
+            "type": 2,
+            "date": "202110",
+            "deposit": 320000,
+            "price": null,
+            "floor": 5,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202110",
+            "deposit": 320000,
+            "price": null,
+            "floor": 8,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202110",
+            "deposit": 330000,
+            "price": null,
+            "floor": 22,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202111",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202112",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202201",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202202",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202203",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202204",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202205",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202206",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202207",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202208",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202209",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202210",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202211",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202212",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202301",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202302",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202303",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202304",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202305",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202306",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202307",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    }
+  ],
+  "leaseHistory": [
+    {
+      "date": "202008",
+      "trade": null,
+      "lease": 5,
+      "rent": 1,
+      "history": {
+        "nextPage": 2,
+        "total": 6,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "6",
+        "histories": [
+          {
+            "type": 1,
+            "date": "202008",
+            "deposit": 110250,
+            "price": 0,
+            "floor": 18,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202008",
+            "deposit": 112350,
+            "price": 0,
+            "floor": 10,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202008",
+            "deposit": 130000,
+            "price": 0,
+            "floor": 4,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202008",
+            "deposit": 130000,
+            "price": 0,
+            "floor": 16,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202008",
+            "deposit": 140000,
+            "price": 0,
+            "floor": 3,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": true,
+        "page": 1
+      }
+    },
+    {
+      "date": "202009",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202010",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202011",
+      "trade": null,
+      "lease": 1,
+      "rent": 0,
+      "history": {
+        "total": 1,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "1",
+        "histories": [
+          {
+            "type": 1,
+            "date": "202011",
+            "deposit": 128100,
+            "price": 0,
+            "floor": 25,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202012",
+      "trade": null,
+      "lease": 1,
+      "rent": 0,
+      "history": {
+        "total": 1,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "1",
+        "histories": [
+          {
+            "type": 1,
+            "date": "202012",
+            "deposit": 108000,
+            "price": 0,
+            "floor": 31,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202101",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202102",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202103",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202104",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202105",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202106",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202107",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202108",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202109",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202110",
+      "trade": null,
+      "lease": 3,
+      "rent": 0,
+      "history": {
+        "total": 3,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "3",
+        "histories": [
+          {
+            "type": 1,
+            "date": "202110",
+            "deposit": 99750,
+            "price": 0,
+            "floor": 2,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202110",
+            "deposit": 122850,
+            "price": 0,
+            "floor": 11,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202110",
+            "deposit": 190000,
+            "price": 0,
+            "floor": 20,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202111",
+      "trade": null,
+      "lease": 3,
+      "rent": 1,
+      "history": {
+        "total": 4,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "4",
+        "histories": [
+          {
+            "type": 1,
+            "date": "202111",
+            "deposit": 115500,
+            "price": 0,
+            "floor": 3,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202111",
+            "deposit": 131200,
+            "price": 0,
+            "floor": 7,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202111",
+            "deposit": 180000,
+            "price": 0,
+            "floor": 18,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 0,
+            "date": "202111",
+            "deposit": 132000,
+            "price": 70,
+            "floor": 20,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202112",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202201",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202202",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202203",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202204",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202205",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202206",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202207",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202208",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202209",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202210",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202211",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202212",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202301",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202302",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202303",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202304",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202305",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202306",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202307",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    }
+  ],
+  "allHistory": [
+    {
+      "date": "202008",
+      "trade": 1,
+      "lease": 5,
+      "rent": null,
+      "history": {
+        "nextPage": 2,
+        "total": 6,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "6",
+        "histories": [
+          {
+            "type": 2,
+            "date": "202008",
+            "deposit": 232000,
+            "price": null,
+            "floor": 3,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202008",
+            "deposit": 110250,
+            "price": 0,
+            "floor": 18,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202008",
+            "deposit": 112350,
+            "price": 0,
+            "floor": 10,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202008",
+            "deposit": 130000,
+            "price": 0,
+            "floor": 4,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202008",
+            "deposit": 130000,
+            "price": 0,
+            "floor": 16,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": true,
+        "page": 1
+      }
+    },
+    {
+      "date": "202009",
+      "trade": 12,
+      "lease": 5,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202010",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202011",
+      "trade": null,
+      "lease": 1,
+      "rent": null,
+      "history": {
+        "total": 1,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "1",
+        "histories": [
+          {
+            "type": 1,
+            "date": "202011",
+            "deposit": 128100,
+            "price": 0,
+            "floor": 25,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202012",
+      "trade": 4,
+      "lease": 1,
+      "rent": null,
+      "history": {
+        "total": 5,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "5",
+        "histories": [
+          {
+            "type": 2,
+            "date": "202012",
+            "deposit": 247000,
+            "price": null,
+            "floor": 21,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202012",
+            "deposit": 250000,
+            "price": null,
+            "floor": 11,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202012",
+            "deposit": 250000,
+            "price": null,
+            "floor": 24,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202012",
+            "deposit": 257500,
+            "price": null,
+            "floor": 15,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202012",
+            "deposit": 108000,
+            "price": 0,
+            "floor": 31,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202101",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202102",
+      "trade": 2,
+      "lease": null,
+      "rent": null,
+      "history": {
+        "total": 2,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "2",
+        "histories": [
+          {
+            "type": 2,
+            "date": "202102",
+            "deposit": 245000,
+            "price": null,
+            "floor": 1,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202102",
+            "deposit": 263000,
+            "price": null,
+            "floor": 3,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202103",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202104",
+      "trade": 3,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202105",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202106",
+      "trade": 10,
+      "lease": 6,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202107",
+      "trade": 5,
+      "lease": 12,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202108",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202109",
+      "trade": 1,
+      "lease": null,
+      "rent": null,
+      "history": {
+        "total": 1,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "1",
+        "histories": [
+          {
+            "type": 2,
+            "date": "202109",
+            "deposit": 310000,
+            "price": null,
+            "floor": 22,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202110",
+      "trade": 3,
+      "lease": 3,
+      "rent": null,
+      "history": {
+        "nextPage": 2,
+        "total": 6,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "6",
+        "histories": [
+          {
+            "type": 2,
+            "date": "202110",
+            "deposit": 320000,
+            "price": null,
+            "floor": 5,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202110",
+            "deposit": 320000,
+            "price": null,
+            "floor": 8,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 2,
+            "date": "202110",
+            "deposit": 330000,
+            "price": null,
+            "floor": 22,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202110",
+            "deposit": 99750,
+            "price": 0,
+            "floor": 2,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202110",
+            "deposit": 122850,
+            "price": 0,
+            "floor": 11,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": true,
+        "page": 1
+      }
+    },
+    {
+      "date": "202111",
+      "trade": null,
+      "lease": 3,
+      "rent": null,
+      "history": {
+        "total": 3,
+        "offset": 0,
+        "limit": 5,
+        "totalStr": "3",
+        "histories": [
+          {
+            "type": 1,
+            "date": "202111",
+            "deposit": 115500,
+            "price": 0,
+            "floor": 3,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202111",
+            "deposit": 131200,
+            "price": 0,
+            "floor": 7,
+            "releaseReasonDate": null
+          },
+          {
+            "type": 1,
+            "date": "202111",
+            "deposit": 180000,
+            "price": 0,
+            "floor": 18,
+            "releaseReasonDate": null
+          }
+        ],
+        "hasMore": false,
+        "page": 1
+      }
+    },
+    {
+      "date": "202112",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202201",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202202",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202203",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202204",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202205",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202206",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202207",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202208",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202209",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202210",
+      "trade": 9,
+      "lease": 6,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202211",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202212",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202301",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202302",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202303",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202304",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202305",
+      "trade": null,
+      "lease": null,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202306",
+      "trade": 2,
+      "lease": 4,
+      "rent": null,
+      "history": null
+    },
+    {
+      "date": "202307",
+      "trade": 8,
+      "lease": 2,
+      "rent": null,
+      "history": null
+    }
+  ],
+  "tradeStat": {
+    "year3": [
+      {
+        "date": "202008",
+        "volume": 1,
+        "averagePrice": 232000,
+        "minPrice": 232000,
+        "maxPrice": 232000,
+        "isActual": true
+      },
+      {
+        "date": "202009",
+        "volume": 0,
+        "averagePrice": 232000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202010",
+        "volume": 0,
+        "averagePrice": 232000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202011",
+        "volume": 0,
+        "averagePrice": 232000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202012",
+        "volume": 4,
+        "averagePrice": 251125,
+        "minPrice": 247000,
+        "maxPrice": 257500,
+        "isActual": true
+      },
+      {
+        "date": "202101",
+        "volume": 0,
+        "averagePrice": 251125,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202102",
+        "volume": 2,
+        "averagePrice": 254000,
+        "minPrice": 245000,
+        "maxPrice": 263000,
+        "isActual": true
+      },
+      {
+        "date": "202103",
+        "volume": 0,
+        "averagePrice": 254000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202104",
+        "volume": 0,
+        "averagePrice": 254000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202105",
+        "volume": 0,
+        "averagePrice": 254000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202106",
+        "volume": 0,
+        "averagePrice": 254000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202107",
+        "volume": 0,
+        "averagePrice": 254000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202108",
+        "volume": 0,
+        "averagePrice": 254000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202109",
+        "volume": 1,
+        "averagePrice": 310000,
+        "minPrice": 310000,
+        "maxPrice": 310000,
+        "isActual": true
+      },
+      {
+        "date": "202110",
+        "volume": 3,
+        "averagePrice": 323333,
+        "minPrice": 320000,
+        "maxPrice": 330000,
+        "isActual": true
+      },
+      {
+        "date": "202111",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202112",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202201",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202202",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202203",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202204",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202205",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202206",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202207",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202208",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202209",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202210",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202211",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202212",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202301",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202302",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202303",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202304",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202305",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202306",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      },
+      {
+        "date": "202307",
+        "volume": 0,
+        "averagePrice": 323333,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "isActual": false
+      }
+    ]
+  },
+  "leaseStat": {
+    "year3": [
+      {
+        "date": "202008",
+        "volume": 6,
+        "averagePrice": 124520,
+        "minPrice": 110250,
+        "maxPrice": 140000,
+        "leaseVolume": 5,
+        "isActual": true
+      },
+      {
+        "date": "202009",
+        "volume": 0,
+        "averagePrice": 124520,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202010",
+        "volume": 0,
+        "averagePrice": 124520,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202011",
+        "volume": 1,
+        "averagePrice": 128100,
+        "minPrice": 128100,
+        "maxPrice": 128100,
+        "leaseVolume": 1,
+        "isActual": true
+      },
+      {
+        "date": "202012",
+        "volume": 1,
+        "averagePrice": 108000,
+        "minPrice": 108000,
+        "maxPrice": 108000,
+        "leaseVolume": 1,
+        "isActual": true
+      },
+      {
+        "date": "202101",
+        "volume": 0,
+        "averagePrice": 108000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202102",
+        "volume": 0,
+        "averagePrice": 108000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202103",
+        "volume": 0,
+        "averagePrice": 108000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202104",
+        "volume": 0,
+        "averagePrice": 108000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202105",
+        "volume": 0,
+        "averagePrice": 108000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202106",
+        "volume": 0,
+        "averagePrice": 108000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202107",
+        "volume": 0,
+        "averagePrice": 108000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202108",
+        "volume": 0,
+        "averagePrice": 108000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202109",
+        "volume": 0,
+        "averagePrice": 108000,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202110",
+        "volume": 3,
+        "averagePrice": 137533,
+        "minPrice": 99750,
+        "maxPrice": 190000,
+        "leaseVolume": 3,
+        "isActual": true
+      },
+      {
+        "date": "202111",
+        "volume": 4,
+        "averagePrice": 142233,
+        "minPrice": 115500,
+        "maxPrice": 180000,
+        "leaseVolume": 3,
+        "isActual": true
+      },
+      {
+        "date": "202112",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202201",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202202",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202203",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202204",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202205",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202206",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202207",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202208",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202209",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202210",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202211",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202212",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202301",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202302",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202303",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202304",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202305",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202306",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      },
+      {
+        "date": "202307",
+        "volume": 0,
+        "averagePrice": 142233,
+        "minPrice": 0,
+        "maxPrice": 0,
+        "leaseVolume": 0,
+        "isActual": false
+      }
+    ]
+  },
+  "compareStat": [
+    {
+      "date": "202008",
+      "tradeAveragePrice": 232000,
+      "leaseAveragePrice": 124520,
+      "rangeAveragePrice": 107480,
+      "leaseRate": 53
+    },
+    {
+      "date": "202009",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202010",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202011",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": 128100,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202012",
+      "tradeAveragePrice": 251125,
+      "leaseAveragePrice": 108000,
+      "rangeAveragePrice": 143125,
+      "leaseRate": 43
+    },
+    {
+      "date": "202101",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202102",
+      "tradeAveragePrice": 254000,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202103",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202104",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202105",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202106",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202107",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202108",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202109",
+      "tradeAveragePrice": 310000,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202110",
+      "tradeAveragePrice": 323333,
+      "leaseAveragePrice": 137533,
+      "rangeAveragePrice": 185800,
+      "leaseRate": 42
+    },
+    {
+      "date": "202111",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": 142233,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202112",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202201",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202202",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202203",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202204",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202205",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202206",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202207",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202208",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202209",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202210",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202211",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202212",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202301",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202302",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202303",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202304",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202305",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202306",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    },
+    {
+      "date": "202307",
+      "tradeAveragePrice": null,
+      "leaseAveragePrice": null,
+      "rangeAveragePrice": null,
+      "leaseRate": null
+    }
+  ]
+}
